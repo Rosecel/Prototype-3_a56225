@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T13:02:53.723Z",
               "EditorCaption": ""
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
@@ -64,11 +64,12 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T12:58:52.344Z"
+              "WhenOpened": "2024-04-24T12:58:52.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MoveLeft.cs",
               "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\MoveLeft.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
