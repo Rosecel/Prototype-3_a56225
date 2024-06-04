@@ -8,11 +8,12 @@ public class PlayerControllerX : MonoBehaviour
 
     public float floatForce;
     //public float bounceForce;
-    //public float maxHeight;
+    public float maxHeight;
+    public float minHeight;
     private float gravityModifier = 1.5f;
     private Rigidbody playerRb;
-    //private bool isLowEnough = true;
-
+    private bool isLowEnough = true;
+    
     public ParticleSystem explosionParticle;
     public ParticleSystem fireworksParticle;
 
@@ -37,7 +38,7 @@ public class PlayerControllerX : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       /* if (transform.position.y >= maxHeight) 
+       if (transform.position.y >= maxHeight) 
         {
             isLowEnough = false;
         }
@@ -45,14 +46,23 @@ public class PlayerControllerX : MonoBehaviour
         {
             isLowEnough = true;
         }
-       */
-        // While space is pressed and player is low enough, float up
-        if (Input.GetKey(KeyCode.Space) && !gameOver)/*isLowEnough*/
+        if (transform.position.y <= minHeight)
         {
             playerRb.AddForce(Vector3.up * floatForce);
         }
+
+        // While space is pressed and player is low enough, float up
+        if (Input.GetKey(KeyCode.Space) && !gameOver && isLowEnough)
+        {
+            playerRb.AddForce(Vector3.up * floatForce);
+        }
+
     }
 
+    private void FixedUpdate()
+    {
+        
+    }
     private void OnCollisionEnter(Collision other)
     {
         // if player collides with bomb, explode and set gameOver to true
