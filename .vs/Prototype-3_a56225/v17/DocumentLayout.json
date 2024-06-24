@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|d:\\tecnologias multimedia\\create with code 2\\prototype-3_a56225\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C2D8E9-BBBB-542C-30FC-7A77E0284090}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +42,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepeatBackground.cs",
-              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\RepeatBackground.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
-              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\RepeatBackground.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:00:56.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MoveLeft.cs",
-              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\MoveLeft.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
-              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\MoveLeft.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:59:05.57Z",
+              "WhenOpened": "2024-06-15T15:30:34.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SpawnManager.cs",
-              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\SpawnManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
-              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\SpawnManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "RepeatBackgroundX.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:37:49.262Z",
+              "WhenOpened": "2024-06-15T15:29:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveLeftX.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:28:29.978Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +91,59 @@
               "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
               "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
               "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA8AAAAEAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:36:06.241Z"
+              "WhenOpened": "2024-06-15T15:25:37.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:40:42.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:35:20.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepeatBackground.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:00:56.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
+              "ToolTip": "D:\\Tecnologias multimedia\\Create With Code 2\\Prototype-3_a56225\\Assets\\Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:37:49.262Z",
+              "EditorCaption": ""
             }
           ]
         }
